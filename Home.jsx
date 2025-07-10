@@ -137,7 +137,7 @@ const Portfolio = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-4 font-medium">
-            M.Pharm (Pharmaceutics) | PBPK Modeling Specialist
+            M.Pharm (Pharmaceutics) 
           </p>
           
           <p className="text-lg text-gray-500 mb-8 max-w-2xl mx-auto">
